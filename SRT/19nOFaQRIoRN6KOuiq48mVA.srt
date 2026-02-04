@@ -1,6 +1,6 @@
 1
 00:00:38,205 --> 00:00:44,462
-{\an8}SEIS DÍAS DESPUÉS
+SEIS DÍAS DESPUÉS
 
 2
 00:07:54,308 --> 00:07:56,643
@@ -215,7 +215,7 @@ SOLO MI NOMBRE
 
 52
 00:44:56,027 --> 00:44:58,363
-{\an8}Para Alfredo.
+Para Alfredo.
 Con amor, Skye.
 
 53
@@ -316,7 +316,7 @@ Sé que eres Skye Riley, la cantante.
 
 75
 01:08:44,246 --> 01:08:46,331
-{\an8}Espero que la próxima generación
+Espero que la próxima generación
 de artistas…
 
 76
@@ -338,11 +338,11 @@ Desconocido
 
 80
 01:12:03,445 --> 01:12:05,947
-{\an8}Estás en peligro.
+Estás en peligro.
 
 81
 01:12:06,031 --> 01:12:07,949
-{\an8}Puedo ayudarte. Tenemos que vernos.
+Puedo ayudarte. Tenemos que vernos.
 
 82
 01:12:13,288 --> 01:12:14,664
@@ -406,8 +406,3 @@ SÉ MÍA
 96
 01:58:35,651 --> 01:58:38,487
 DEMASIADO PARA UN SOLO CORAZÓN
-
-97
-02:07:23,345 --> 02:07:25,347
-Subtítulos: Gabriela Gómez
-
