@@ -393,6 +393,7 @@ SALIDA
 93
 01:42:05,912 --> 01:42:09,123
 Cuenta conmigo. No dejaré que lastime
+
 a alguien más. Ayúdame, por favor.
 
 94
@@ -406,8 +407,4 @@ SÉ MÍA
 96
 01:58:35,651 --> 01:58:38,487
 DEMASIADO PARA UN SOLO CORAZÓN
-
-97
-02:07:23,345 --> 02:07:25,347
-Subtítulos: Gabriela Gómez
 
